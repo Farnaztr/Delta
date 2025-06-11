@@ -13,7 +13,7 @@ This application provides a small interactive quiz where the user is asked to so
 ## How to Run
 
 1. copy `program.cs`.
-2. paste on your visual studio.
+2. paste it on your visual studio.
 
 
 ---
